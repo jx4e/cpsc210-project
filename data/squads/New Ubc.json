@@ -1,0 +1,27 @@
+{
+    "coaches": [{
+        "dob": "1990-08-24",
+        "name": "Jon Wills",
+        "uuid": "4e64d0f0-2aac-4659-8535-f3222b818e84"
+    }],
+    "schedule": {},
+    "name": "New Ubc",
+    "athletes": [
+        {
+            "dob": "2004-02-12",
+            "name": "Joel Blanco",
+            "uuid": "2112737b-5317-4465-afc1-d91897632643"
+        },
+        {
+            "dob": "2005-10-08",
+            "name": "A1",
+            "uuid": "03f1d5ce-af9b-43c2-a17b-61e3f9ed85a5"
+        },
+        {
+            "dob": "2005-08-24",
+            "name": "Jake Gaunt",
+            "uuid": "58a797c5-7431-42e6-8e6f-bb0882ceadcc"
+        }
+    ],
+    "uuid": "845da5a9-d8d7-4e54-ad47-04de48ed50b0"
+}

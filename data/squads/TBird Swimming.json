@@ -1,0 +1,22 @@
+{
+    "coaches": [{
+        "dob": "1970-12-12",
+        "name": "Derrick Schoof",
+        "uuid": "5a0bc0b7-7a77-415c-8601-31831b9ad2b8"
+    }],
+    "schedule": {},
+    "name": "TBird Swimming",
+    "athletes": [
+        {
+            "dob": "2005-08-24",
+            "name": "Jake Gaunt",
+            "uuid": "105230db-a7e2-497c-acdd-73acd1835e77"
+        },
+        {
+            "dob": "2006-06-09",
+            "name": "Piper Mitchell",
+            "uuid": "64b45552-fae1-479c-9e53-2136019bb487"
+        }
+    ],
+    "uuid": "0996e678-f340-4297-8144-e6ed7e8211f9"
+}

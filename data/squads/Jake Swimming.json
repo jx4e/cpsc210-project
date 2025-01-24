@@ -1,0 +1,15 @@
+{
+    "coaches": [{
+        "dob": "1970-12-12",
+        "name": "Derrick Schoof",
+        "uuid": "5a0bc0b7-7a77-415c-8601-31831b9ad2b8"
+    }],
+    "schedule": {},
+    "name": "Jake Swimming",
+    "athletes": [{
+        "dob": "2005-08-24",
+        "name": "Jake Gaunt",
+        "uuid": "105230db-a7e2-497c-acdd-73acd1835e77"
+    }],
+    "uuid": "0996e678-f340-4297-8144-e6ed7e8211f9"
+}

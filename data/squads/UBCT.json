@@ -1,0 +1,100 @@
+{
+    "coaches": [
+        {
+            "dob": "1990-08-24",
+            "name": "Jon Wills",
+            "uuid": "b876d1fd-15c3-4b05-90e0-a61a97159711"
+        },
+        {
+            "dob": "1975-10-07",
+            "name": "Derrick Schoof",
+            "uuid": "8cc33811-7094-4151-98bd-81371d51e21f"
+        }
+    ],
+    "schedule": {
+        "WEDNESDAY": [
+            {
+                "start": "06:30",
+                "description": "AM Swim",
+                "end": "08:30"
+            },
+            {
+                "start": "15:00",
+                "description": "PM Swim",
+                "end": "17:00"
+            }
+        ],
+        "MONDAY": [
+            {
+                "start": "06:30",
+                "description": "AM Swim",
+                "end": "08:30"
+            },
+            {
+                "start": "15:00",
+                "description": "PM Swim",
+                "end": "17:00"
+            }
+        ],
+        "THURSDAY": [
+            {
+                "start": "08:15",
+                "description": "Gym",
+                "end": "09:15"
+            },
+            {
+                "start": "15:00",
+                "description": "PM Swim",
+                "end": "17:00"
+            }
+        ],
+        "TUESDAY": [
+            {
+                "start": "08:15",
+                "description": "Gym",
+                "end": "09:15"
+            },
+            {
+                "start": "15:00",
+                "description": "PM Swim",
+                "end": "17:00"
+            }
+        ],
+        "FRIDAY": [
+            {
+                "start": "06:30",
+                "description": "AM Swim",
+                "end": "08:30"
+            },
+            {
+                "start": "15:00",
+                "description": "PM Swim",
+                "end": "17:00"
+            }
+        ],
+        "SATURDAY": [{
+            "start": "06:30",
+            "description": "AM Swim",
+            "end": "08:30"
+        }]
+    },
+    "name": "UBCT",
+    "athletes": [
+        {
+            "dob": "2005-08-24",
+            "name": "Jake Gaunt",
+            "uuid": "3a689919-9d0c-4ac3-a002-35a822c9ef18"
+        },
+        {
+            "dob": "2004-06-24",
+            "name": "Frank Ho",
+            "uuid": "78c8187b-6b24-4250-a87e-0def00f7fdd5"
+        },
+        {
+            "dob": "2004-02-12",
+            "name": "Joel Blanco",
+            "uuid": "5472ecc6-79f4-4fcc-add6-fc3d814f2e9b"
+        }
+    ],
+    "uuid": "e53b9367-da26-4e72-93ad-fbfad420df0e"
+}

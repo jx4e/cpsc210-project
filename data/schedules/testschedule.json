@@ -1,0 +1,24 @@
+{
+    "WEDNESDAY": [
+        {
+            "start": "12:00",
+            "description": "Session1",
+            "end": "14:00"
+        },
+        {
+            "start": "18:00",
+            "description": "Session2",
+            "end": "19:00"
+        }
+    ],
+    "MONDAY": [{
+        "start": "12:00",
+        "description": "Session1",
+        "end": "14:00"
+    }],
+    "TUESDAY": [{
+        "start": "18:00",
+        "description": "Session2",
+        "end": "19:00"
+    }]
+}
